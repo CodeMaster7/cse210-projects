@@ -46,5 +46,9 @@ class Program
             }
         }
         Console.WriteLine($"The largest number is: {max}");
+
+        // Sort the numbers in the list and display the smallest number.
+        numbers.Sort();
+        Console.WriteLine($"The smallest number is: {numbers[0]}");
     }
 }
