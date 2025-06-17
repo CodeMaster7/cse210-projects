@@ -1,0 +1,6 @@
+675
+SimpleGoal|give a talk|speak in sacrament meeting when asked|50|False
+EternalGoal|study the scriptures|study for at least 10 minutes a day|20
+ChecklistGoal|attend the temple|Attend and perform any ordinance|50|3|500|3
+SimpleGoal|pray|pray every day|20|True
+SimpleGoal|read 1 verse every day|read from the Book of Mormon|5|True
